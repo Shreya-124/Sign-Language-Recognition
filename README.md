@@ -14,7 +14,7 @@ The frontend is built on PyQT5 which comprise of a module that simply detects th
 Concerning to the implementation,TensorFlow framework with keras API has been used.
 <br/><br/>
 The dataset is taken from: <a href="https://www.kaggle.com/datamunge/sign-language-mnist">https://www.kaggle.com/datamunge/sign-language-mnist</a><br/>
-The data includes approximately 35,000 28x28 pixel images of the 24 letters of the alphabet.
+The data includes approximately 35,000 28x28 pixel images of the 24 letters of the American Sign Language (ASL) alphabets.
 <br/><br/>
 <b>Have a look at our introductory gif</b>
   
