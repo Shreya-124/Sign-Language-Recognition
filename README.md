@@ -16,7 +16,7 @@ Concerning to the implementation,TensorFlow framework with keras API has been us
 The dataset is taken from: <a href="https://www.kaggle.com/datamunge/sign-language-mnist">https://www.kaggle.com/datamunge/sign-language-mnist</a><br/>
 The data includes approximately 35,000 28x28 pixel images of the 24 letters of the American Sign Language (ASL) alphabets.
 <br/><br/>
-<b>Have a look at our introductory gif</b>
+<b>Have a look at our introductory gif</b><br/>
   
  ![sign](https://user-images.githubusercontent.com/58930225/88955142-259c3b80-d2b9-11ea-81d9-d71f36e14f1a.gif)
  <br/><br/>
