@@ -21,4 +21,5 @@ The data includes approximately 35,000 28x28 pixel images of the 24 letters of t
  ![sign](https://user-images.githubusercontent.com/58930225/88955142-259c3b80-d2b9-11ea-81d9-d71f36e14f1a.gif)
  <br/>
  The model is trained using the dataset and hence it comes out to be 92.3% accurate.<br/>
+ The Project start file is test.py.</br>
  All code files are provided for reference.
